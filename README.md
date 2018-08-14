@@ -1,6 +1,6 @@
 # API Project: Request Header Parser Microservice for freeCodeCamp
 
-<a href="https://fcc-request-header-demangejeremy.glitch.me/" target="_blank">Voir le projet</a>
+<a href="https://fcc-request-header-demangejeremy.glitch.me/" target="_blank">View project online</a>
 
 ### User stories:
 1. I can get the IP address, preferred languages (from header `Accept-Language`) and system infos (from header `User-Agent`) for my device.
